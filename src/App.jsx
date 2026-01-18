@@ -1,8 +1,9 @@
 import Todo from "./Todo";
+import Memory from "./Memory";
 function App() {
   return(
     <>
-    <Todo/>
+    <Memory/>
    </>
   );
 }

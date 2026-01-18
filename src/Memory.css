@@ -1,0 +1,9 @@
+.poke-Card{
+  display: flex;
+}
+ul{
+    list-style-type: none;
+    flex-wrap: wrap;
+  gap: 20px;
+  
+}
